@@ -1,0 +1,9 @@
+note to self, get atom and git bash onto home computer as well as git GUI and git COM
+also get updated code version online.
+
+class notes:
+
+AJAX: asynchronous javascript and xml
+results in sending a single page with one html where the user(client) does most of the work on running the page
+requests through java/ajax are what go back and forth between server and client instead (mostly client just has authentication left as processing)
+API 
